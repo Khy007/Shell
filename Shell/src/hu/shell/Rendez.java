@@ -21,7 +21,7 @@ public class Rendez {
     public static int[] getTomb() {
         return tomb;
     }
-
+ 
     public static void setTomb(int[] tomb) {
         Rendez.tomb = tomb;
     }
